@@ -1,0 +1,63 @@
+.navback{
+    background-color: transparent;
+    box-shadow: none;
+}
+.navback li a{
+    color: white !important;
+    margin-right: 20px;
+}
+.back{
+    /* background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%); */
+    /* background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%); */
+
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    height: 100%;
+
+}
+.navbar-brand{
+    color: white !important;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 28px;
+}
+#mainHeading{
+    text-align: center; 
+    color: white;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.inputBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btncusto{
+    font-family: 'Pattaya', sans-serif !important;
+    text-transform: inherit !important;
+    font-size: 18px !important;
+}
+
+.card{
+    /* height: 80% !important; */
+}
+
+.input-custo{
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+#Bdate{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 24px;
+}
+img{
+    height: 265px !important;
+}
+
+.active-link{
+    border-bottom: 1px solid white;
+   
+}
+.hover-link:hover{
+    border-bottom: 1px solid white;
+    color: rgb(194, 194, 194);
+    transition: ease-in-out;
+}
